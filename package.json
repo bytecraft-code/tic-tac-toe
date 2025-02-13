@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A modular Tic Tac Toe game built with HTML, CSS, and JavaScript using ES modules. Play against another human or challenge the computer!",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "live-server --port=3000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}

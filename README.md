@@ -16,10 +16,16 @@ A modular Tic Tac Toe game built with HTML, CSS, and JavaScript using ES modules
    cd tic-tac-toe
    ```
 
-2. **Run the Project**
+2. **Install Dependencies**
 
    ```bash
-   npx start
+   npm install
+   ```
+
+3. **Run the Project**
+
+   ```bash
+   npm start
    ```
 
 ## Game Rules
