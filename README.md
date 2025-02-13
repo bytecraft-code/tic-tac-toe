@@ -5,7 +5,6 @@ A modular Tic Tac Toe game built with HTML, CSS, and JavaScript using ES modules
 ## Requirements
 
 - **Node.js**: Version 20 or above  
-- **npx**: Comes with Node.js
 
 ## Getting Started
 
@@ -22,7 +21,7 @@ A modular Tic Tac Toe game built with HTML, CSS, and JavaScript using ES modules
    npm install
    ```
 
-3. **Run the Project**
+3. **Run the Project with Vite**
 
    ```bash
    npm run dev
