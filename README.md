@@ -25,7 +25,7 @@ A modular Tic Tac Toe game built with HTML, CSS, and JavaScript using ES modules
 3. **Run the Project**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Game Rules
